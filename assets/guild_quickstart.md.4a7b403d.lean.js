@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as e}from"./app.05db669c.js";import"./chunks/theme.d2b7ddd9.js";const h=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"guild/quickstart.md"}'),l={name:"guild/quickstart.md"},t=e("",12),p=[t];function i(o,c,r,d,u,C){return n(),a("div",null,p)}const m=s(l,[["render",i]]);export{h as __pageData,m as default};
