@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,N as t}from"./chunks/framework.f5b2a8ed.js";const u=JSON.parse('{"title":"全局组件引入","description":"","frontmatter":{},"headers":[],"relativePath":"develop/global.md"}'),n={name:"develop/global.md"},o=t("",7),l=[o];function c(i,p,r,d,_,h){return s(),e("div",null,l)}const g=a(n,[["render",c]]);export{u as __pageData,g as default};
